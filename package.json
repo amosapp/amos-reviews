@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/solviofoundation/amos-reviews/issues"
   },
-  "homepage": "https://github.com/solviofoundation/amos-reviews#readme"
+  "homepage": "https://github.com/solviofoundation/amos-reviews#readme",
+  "publishConfig": {
+      "registry": "https://npm.pkg.github.com/"
+  }
 }
