@@ -1,5 +1,5 @@
 {
-  "name": "amos-reviews",
+  "name": "@solviofoundation/amos-reviews",
   "version": "0.1.0",
   "description": "",
   "main": "src/1.0.0/reviews.js",
