@@ -3,7 +3,7 @@
  */
 module.exports = [
   [
-    [`lecture-notes`],
+    `LECTURE_NOTES`,
     [`https://www.cl.cam.ac.uk/teaching/1819/Algorithms/`],
     [`DataStructuresAndAlgorithms`],
     []
